@@ -33,5 +33,4 @@ jobs:
         token: ${{ secrets.EXPO_TOKEN }}
     - run: npm install
     - name: Expo GitHub Action
-      uses: expo/expo-github-action@7.0.2
       run: expo publish --non-interactive

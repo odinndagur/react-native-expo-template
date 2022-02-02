@@ -28,7 +28,7 @@ export default function ({ navigation }) {
             </Text>
             <Button
               style={{ marginTop: 10 }}
-              text="Rapi UI Documentation"
+              text="Rapi UI Documentation what a næs"
               status="info"
               onPress={() => Linking.openURL("https://rapi-ui.kikiding.space/")}
             />
